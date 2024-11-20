@@ -1,0 +1,14 @@
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\bin\Debug\net7.0\TowerClimber.exe
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\bin\Debug\net7.0\TowerClimber.deps.json
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\bin\Debug\net7.0\TowerClimber.runtimeconfig.json
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\bin\Debug\net7.0\TowerClimber.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\bin\Debug\net7.0\TowerClimber.pdb
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.AssemblyInfoInputs.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.AssemblyInfo.cs
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.csproj.CoreCompileInputs.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\refint\TowerClimber.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.pdb
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.genruntimeconfig.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\ref\TowerClimber.dll
