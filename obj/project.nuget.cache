@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bnvPlXsixU5Ujj/UEVrTodcJ9+Ilpfgb+J4hSuAGvU7ghVh1y5MPg+gAqbd7t4+SkjhusdhHTJelT8CgemVkWA==",
+  "dgSpecHash": "FCjiwpsQGAs=",
   "success": true,
-  "projectFilePath": "F:\\Kuliah\\Semester_3\\Tugas\\OOP\\game_project_oop\\TowerClimber\\TowerClimber.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ruben\\Documents\\OOP sem 3 2024\\kuliah_pasca_uts\\TowerClimber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

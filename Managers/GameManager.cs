@@ -4,8 +4,10 @@ using System.Collections.Generic;
 public class GameManager
 {
     private Player? player; // ? makes sure player is not throwing error when null
+    private Enemy? enemy;
     private EnemyManager enemyManager;
     private Random random;
+    private bool isPlayerTurn = true;
 
     public GameManager()
     {
@@ -27,6 +29,8 @@ public class GameManager
 
         player = new Player(playerName, 100, 15, 10, 0, 1);
         enemyManager.Attach(player);
+
+        Console.WriteLine("The game has started!");
 
         while (true)
         {
@@ -86,9 +90,65 @@ public class GameManager
             Enemy enemy = GenerateRandomEnemy();
             Console.WriteLine();
             Console.WriteLine($"You encountered a {enemy.Name}!");
-            // Placeholder for combat system
-            enemyManager.EnemyDefeated(enemy);
+            
+            Console.WriteLine("The fight has started!");
+
+            while (player?.Health > 0 && enemy.Health > 0)
+            {
+                if (isPlayerTurn)
+                {
+                    PlayerTurn();
+                }
+                else
+                {
+                    EnemyTurn();
+                }
+                isPlayerTurn = !isPlayerTurn;
+            }
+
+            if (player?.Health <= 0)
+            {
+                Console.WriteLine("You have been defeated!");
+            }
+            else if (enemy.Health <= 0)
+            {
+                Console.WriteLine("You have defeated the enemy!");
+            }
+                enemyManager.EnemyDefeated(enemy);
         }
+    }
+
+    private void PlayerTurn()
+    {
+        Console.WriteLine($"Your turn! {player?.Name} has {player?.Health} health.");
+        Console.WriteLine("Choose an action: (1) Attack (2) Defend");
+        string? choice = Console.ReadLine();
+
+        if (choice == "1")
+        {
+            int? damage = player?.Menyerang(random);
+            enemy?.TakeDamage(damage);
+            Console.WriteLine($"You dealt {damage} damage to the enemy. {enemy?.Name} has {enemy?.Health} health left.");
+        }
+        else if (choice == "2")
+        {
+            Console.WriteLine("You chose to defend.");
+            int? damage = enemy?.Menyerang(random)/2;
+            player?.TakeDamage(damage); 
+            Console.WriteLine($"You took {damage} damage");
+        }
+        else
+        {
+            Console.WriteLine("Invalid choice, you lose your turn!");
+        }
+    }
+
+    private void EnemyTurn()
+    {
+        Console.WriteLine($"Enemy turn! {enemy?.Name} has {enemy?.Health} health.");
+        int? damage = enemy?.Menyerang(random);
+        player?.TakeDamage(damage);
+        Console.WriteLine($"The enemy dealt {damage} damage to you. You have {player?.Health} health left.");
     }
 
     private Enemy GenerateRandomEnemy()

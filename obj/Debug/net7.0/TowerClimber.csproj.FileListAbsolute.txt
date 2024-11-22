@@ -12,3 +12,11 @@ F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\re
 F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.pdb
 F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\TowerClimber.genruntimeconfig.cache
 F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\obj\Debug\net7.0\ref\TowerClimber.dll
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.AssemblyInfo.cs
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.sourcelink.json
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.dll
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\refint\TowerClimber.dll
+C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\obj\Debug\net7.0\TowerClimber.pdb
