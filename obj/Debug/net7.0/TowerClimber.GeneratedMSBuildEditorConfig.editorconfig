@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TowerClimber
-build_property.ProjectDir = C:\Users\ruben\Documents\OOP sem 3 2024\kuliah_pasca_uts\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TowerClimber\

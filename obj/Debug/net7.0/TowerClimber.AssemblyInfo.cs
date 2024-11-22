@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TowerClimber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa11d481a12b4a8e4a284e386927609b6ecf5d6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TowerClimber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TowerClimber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

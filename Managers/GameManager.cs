@@ -8,6 +8,7 @@ public class GameManager
     private EnemyManager enemyManager;
     private Random random;
     private bool isPlayerTurn = true;
+    private bool isDefending = false;
 
     public GameManager()
     {
@@ -87,7 +88,7 @@ public class GameManager
         int encounterChance = random.Next(0, 100);
         if (encounterChance < 30) // 30% chance to encounter an enemy
         {
-            Enemy enemy = GenerateRandomEnemy();
+            enemy = GenerateRandomEnemy();
             Console.WriteLine();
             Console.WriteLine($"You encountered a {enemy.Name}!");
             
@@ -133,9 +134,8 @@ public class GameManager
         else if (choice == "2")
         {
             Console.WriteLine("You chose to defend.");
-            int? damage = enemy?.Menyerang(random)/2;
-            player?.TakeDamage(damage); 
-            Console.WriteLine($"You took {damage} damage");
+            isDefending = true;
+
         }
         else
         {
@@ -145,9 +145,21 @@ public class GameManager
 
     private void EnemyTurn()
     {
+        int? damage;
         Console.WriteLine($"Enemy turn! {enemy?.Name} has {enemy?.Health} health.");
-        int? damage = enemy?.Menyerang(random);
-        player?.TakeDamage(damage);
+        if (isDefending)
+        {
+            Console.WriteLine("You brace yourself for the enemy's attack, reducing damage taken.");
+            damage = enemy?.Menyerang(random)/2;
+            player?.TakeDamage(damage);
+            isDefending = false;
+        }
+        else
+        {
+            damage = enemy?.Menyerang(random)/2;
+            player?.TakeDamage(damage);
+        }
+
         Console.WriteLine($"The enemy dealt {damage} damage to you. You have {player?.Health} health left.");
     }
 

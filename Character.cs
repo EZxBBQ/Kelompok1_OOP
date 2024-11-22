@@ -17,7 +17,7 @@ public class Character
 
     public void TakeDamage(int? damage)
     {
-        int? damageTaken = damage - Defense;
+        int? damageTaken = damage - Defense / 5;
         if (damageTaken > 0)
         {
 

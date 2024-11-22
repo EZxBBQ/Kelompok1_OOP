@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ruben\\.nuget\\packages\\": {}
+    "C:\\Users\\Adi Nugroho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben\\Documents\\OOP sem 3 2024\\kuliah_pasca_uts\\TowerClimber.csproj",
+      "projectUniqueName": "F:\\Kuliah\\Semester_3\\Tugas\\OOP\\game_project_oop\\TowerClimber\\TowerClimber.csproj",
       "projectName": "TowerClimber",
-      "projectPath": "C:\\Users\\ruben\\Documents\\OOP sem 3 2024\\kuliah_pasca_uts\\TowerClimber.csproj",
-      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben\\Documents\\OOP sem 3 2024\\kuliah_pasca_uts\\obj\\",
+      "projectPath": "F:\\Kuliah\\Semester_3\\Tugas\\OOP\\game_project_oop\\TowerClimber\\TowerClimber.csproj",
+      "packagesPath": "C:\\Users\\Adi Nugroho\\.nuget\\packages\\",
+      "outputPath": "F:\\Kuliah\\Semester_3\\Tugas\\OOP\\game_project_oop\\TowerClimber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Adi Nugroho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,30 +54,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
