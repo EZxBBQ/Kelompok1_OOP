@@ -1,0 +1,29 @@
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.AssemblyInfoInputs.cache
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.AssemblyInfo.cs
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.csproj.CoreCompileInputs.cache
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\bin\Debug\net9.0\MyGame.exe
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\bin\Debug\net9.0\MyGame.deps.json
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\bin\Debug\net9.0\MyGame.runtimeconfig.json
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\bin\Debug\net9.0\MyGame.dll
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\bin\Debug\net9.0\MyGame.pdb
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.dll
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\refint\MyGame.dll
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.pdb
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\MyGame.genruntimeconfig.cache
+C:\UWIW_4\Big_Brain\SEMESTER_3\OOP\tugas latex fondasi\MyGame\obj\Debug\net9.0\ref\MyGame.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\bin\Debug\net9.0\MyGame.exe
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\bin\Debug\net9.0\MyGame.deps.json
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\bin\Debug\net9.0\MyGame.runtimeconfig.json
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\bin\Debug\net9.0\MyGame.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\bin\Debug\net9.0\MyGame.pdb
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.AssemblyInfoInputs.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.AssemblyInfo.cs
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.csproj.CoreCompileInputs.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.sourcelink.json
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\refint\MyGame.dll
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.pdb
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\MyGame.genruntimeconfig.cache
+F:\Kuliah\Semester_3\Tugas\OOP\game_project_oop\TugasOOP_Kel13\BattleOfEngineering\obj\Debug\net9.0\ref\MyGame.dll
